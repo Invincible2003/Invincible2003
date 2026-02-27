@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikramaditya</h1>
+<h1 align="center">Hi 👋, I'm ARYAN PANDEY(Vikramaditya)</h1>
 <h3 align="center">BTech CSE Student | AI • Data • Full Stack</h3>
 
 <p align="center">
