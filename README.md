@@ -55,11 +55,16 @@ Git • GitHub • VS Code • Power BI
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-- LinkedIn
-- Email
+<p align="left">
 
----
+<a href="https://www.linkedin.com/in/aryan-pandey-b504b4255">
+<img src="https://img.shields.io/badge/LinkedIn-Aryan%20Pandey-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-⭐ From [Invincible2003](https://github.com/Invincible2003)
+<a href="mailto:aryanpandeyp837@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
