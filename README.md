@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vikramaditya</h1>
+<h3 align="center">BTech CSE Student | AI • Data • Full Stack</h3>
 
-<!--
-**Invincible2003/Invincible2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=AI+Enthusiast;Full+Stack+Learner;Building+Real+World+Projects&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨‍💻 About Me
+
+- 🎓 BTech Computer Science Student  
+- 🤖 Interested in Artificial Intelligence & Data Analytics  
+- 💻 Building real world development projects  
+- 🌱 Currently learning advanced development and ML  
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 Placement AI
+Machine learning web application that predicts a student's chances of placement.
+
+### 🔹 Tulaa – Country Comparison App
+Compare countries using real-world data APIs with interactive UI.
+
+### 🔹 CrisisMap
+Disaster & emergency alert mobile-first web application built with React + Tailwind.
+
+### 🔹 Country Demographics & Trend Prediction
+Analytics dashboard and prediction system using global datasets.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+Python • C++ • JavaScript • TypeScript • SQL
+
+### Frameworks / Libraries
+React • Node.js • Tailwind • APIs
+
+### Tools
+Git • GitHub • VS Code • Power BI
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Invincible2003&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Invincible2003&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Invincible2003&theme=tokyonight)
+
+---
+
+# 🌐 Connect With Me
+
+- LinkedIn
+- Email
+
+---
+
+⭐ From [Invincible2003](https://github.com/Invincible2003)
